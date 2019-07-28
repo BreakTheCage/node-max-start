@@ -1,0 +1,25 @@
+{
+  "name": "node-max-start",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js",
+    "start-server": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BreakTheCage/node-max-start.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BreakTheCage/node-max-start/issues"
+  },
+  "homepage": "https://github.com/BreakTheCage/node-max-start#readme",
+  "dependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
